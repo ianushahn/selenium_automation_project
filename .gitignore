@@ -19,7 +19,6 @@ test-output/
 Thumbs.db
 
 # Eclipse
-.project
 .classpath
 .settings/
 bin/
