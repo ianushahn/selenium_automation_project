@@ -11,6 +11,7 @@
 
 # Selenium test output
 screenshots/
+failedScreenshots/
 test-output/
 
 # OS-specific files
@@ -60,3 +61,4 @@ surefire-reports/
 # Environment variables / config
 .env
 *.properties.local
+/.metadata/
